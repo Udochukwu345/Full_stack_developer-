@@ -1,0 +1,5 @@
+nano mysecondfile.txt
+A full stack developer is a developer that has projects and practical experiences in front end and
+backend technologies like React,Node.js Postgre,MongoDB Javascript ,Bootstrap ,Css  .
+Tools :Visual code editor ,Sublime text,GitHub,GitBash,Powershell,Command  prompt
+
